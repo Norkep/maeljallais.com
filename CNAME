@@ -1,4 +1,5 @@
-norkep.github.io     3600    IN A     185.199.108.153
-norkep.github.io     3600    IN A     185.199.109.153
-norkep.github.io     3600    IN A     185.199.110.153
-norkep.github.io     3600    IN A     185.199.111.153
+WWW.MAELJALLAIS.COM +nostats +nocomments +nocmd;
+WWW.MAELJALLAIS.COM.                     IN      A
+WWW.MAELJALLAIS.COM.              3592    IN      CNAME   norkep.github.io.
+norkep.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
+GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
